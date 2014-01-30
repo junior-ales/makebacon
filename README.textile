@@ -1,5 +1,7 @@
 h2. Make Bacon
 
+
 Project started to make apps to FirefoxOS - "Make Bacon on Mozilla Demo Studio":https://developer.mozilla.org/en-US/demos/detail/make-bacon/
+
 
 *Shooting flying pigs is the easiest way to make bacon!*
